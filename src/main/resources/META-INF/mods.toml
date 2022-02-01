@@ -1,0 +1,26 @@
+modLoader="javafml" #mandatory
+loaderVersion="[39,)"
+license="All rights reserved"
+[[mods]]
+modId="steamtech"
+version="${file.jarVersion}"
+displayName="Steam Tech"
+logoFile="steamtech.png"
+credits="Thanks for this example mod goes to Java"
+authors="Love, Cheese and small house plants"
+
+description='''
+Steam technologies
+'''
+[[dependencies.tutorialv3]] #optional
+    modId="forge"
+    mandatory=true
+    versionRange="[39,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.tutorialv3]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18.1,1.19)"
+    ordering="NONE"
+    side="BOTH"
