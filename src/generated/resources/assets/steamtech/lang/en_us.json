@@ -1,0 +1,18 @@
+{
+  "block.steamtech.generator": "Generator",
+  "block.steamtech.lead_ore": "Lead Ore",
+  "block.steamtech.powergen": "Power generator",
+  "block.steamtech.tin_ore": "Tin Ore",
+  "item.steamtech.bronze_ingot": "Bronze Ingot",
+  "item.steamtech.bronze_plate": "Bronze Plate",
+  "item.steamtech.lead_ingot": "Lead Ingot",
+  "item.steamtech.raw_lead_chunk": "Lead Raw Chunk",
+  "item.steamtech.raw_tin_chunk": "Tin Raw Chunk",
+  "item.steamtech.steel_ingot": "Steel Ingot",
+  "item.steamtech.steel_plate": "Steel Plate",
+  "item.steamtech.tin_ingot": "Tin Ingot",
+  "itemGroup.steamtech": "Tutorial",
+  "message.generator": "Generate ores from ingots!",
+  "message.powergen": "Power generator generating %s per tick!",
+  "screen.tutorial.powergen": "Power generator"
+}

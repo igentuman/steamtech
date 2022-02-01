@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "facing=down": {
+      "model": "steamtech:block/generator",
+      "x": 180
+    },
+    "facing=up": {
+      "model": "steamtech:block/generator"
+    },
+    "facing=north": {
+      "model": "steamtech:block/generator",
+      "x": 90
+    },
+    "facing=south": {
+      "model": "steamtech:block/generator",
+      "x": 90,
+      "y": 180
+    },
+    "facing=west": {
+      "model": "steamtech:block/generator",
+      "x": 90,
+      "y": 270
+    },
+    "facing=east": {
+      "model": "steamtech:block/generator",
+      "x": 90,
+      "y": 90
+    }
+  }
+}
